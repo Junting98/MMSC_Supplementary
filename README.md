@@ -1,1 +1,12 @@
-# MMSC_Supplementary
+# MMSC---Supplementary
+
+Dataset Statistic.
+
+| Dataset     | #Items  | #Co-view ∪ #Buy-after-view | #Co-purchase |
+|-------------|---------|-----------------------------|--------------|
+| Office      | 85,648  | 2,002,109                   | 1,200,487    |
+| Tool        | 192,408 | 3,413,564                   | 2,058,000    |
+| Toys        | 227,227 | 8,718,700                   | 6,784,468    |
+| Home        | 250,244 | 7,297,466                   | 2,070,856    |
+| Electronics | 326,002 | 6,120,988                   | 3,816,044    |
+
